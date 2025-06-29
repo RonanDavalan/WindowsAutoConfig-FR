@@ -1,6 +1,6 @@
 # WindowsAutoConfig ⚙️
 
-![Bannière WindowsAutoConfig-fr](WindowsAutoConfig-fr)
+![Bannière WindowsAutoConfig-fr.png](WindowsAutoConfig-fr.png)
 
 **Votre pilote automatique pour postes de travail Windows dédiés. Configurez une fois, et laissez le système s'autogérer en toute fiabilité.**
 
