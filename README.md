@@ -1,5 +1,7 @@
 # WindowsAutoConfig ⚙️
 
+![Bannière WindowsAutoConfig-fr](WindowsAutoConfig-fr)
+
 **Votre pilote automatique pour postes de travail Windows dédiés. Configurez une fois, et laissez le système s'autogérer en toute fiabilité.**
 
 ![Licence](https://img.shields.io/badge/Licence-GPLv3-blue.svg)
