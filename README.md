@@ -6,6 +6,6 @@ Le projet **WindowsAutoConfig** a été centralisé et intègre maintenant le su
 
 **Toutes les futures mises à jour, fonctionnalités et la documentation à jour se trouvent ici :**
 
-➡️ **[https://github.com/RonanDavalan/WindowsAutoConfig](https://github.com/RonanDavalan/WindowsAutoConfig)** ⬅️
+➡️ **[https://github.com/RonanDavalan/WindowsOrchestrator](https://github.com/RonanDavalan/WindowsOrchestrator)** ⬅️
 
 Veuillez consulter le dépôt principal pour la dernière version.
